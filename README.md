@@ -32,8 +32,6 @@ I'm a developer who enjoys building things, solving problems and exploring techn
 
 ⚙️ Backend & Systems Development
 
-🌱 Currently learning CSS and JavaScript.
-
 🚀 Always exploring something new.
 
 </div>
