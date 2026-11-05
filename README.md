@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- =============== ANIMATED NAME =============== -->
 
 <div align="center">
 
@@ -14,9 +14,9 @@
 
 </div>
 
-<br>
+---
 
-<!-- ABOUT -->
+<!-- =============== ABOUT ME =============== -->
 
 <h2 align="center">About Me</h2>
 
@@ -40,7 +40,7 @@ I'm a developer who enjoys building things, solving problems and exploring techn
 
 <br>
 
-<!-- CODING GIF -->
+<!-- =============== CODING GIF =============== -->
 
 <div align="center">
 
@@ -50,7 +50,7 @@ I'm a developer who enjoys building things, solving problems and exploring techn
 
 <br>
 
-<!-- TECH STACK -->
+<!-- =============== TECH STACK =============== -->
 
 <h2 align="center">Technologies & Tools</h2>
 
@@ -84,63 +84,7 @@ I'm a developer who enjoys building things, solving problems and exploring techn
 
 <br>
 
-<!-- PROJECTS -->
-
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/harshit-codes273/Student-Record-Management-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-codes273&repo=Student-Record-Management-&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/harshit-codes273/PB_Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-codes273&repo=PB_Website&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/harshit-codes273/Git_and_GitHub-Workshop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-codes273&repo=Git_and_GitHub-Workshop&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/harshit-codes273/commit-conquer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit-codes273&repo=commit-conquer&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- GITHUB STATS -->
-
-<h2 align="center">GitHub Statistics</h2>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit-codes273&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-codes273&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=harshit-codes273&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<!-- CONTRIBUTION GRAPH -->
-
-<h2 align="center">Contribution Activity</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-codes273&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br>
-
-<!-- CONNECT -->
+<!-- =============== CONNECT =============== -->
 
 <h2 align="center">Let's Connect</h2>
 
@@ -158,7 +102,7 @@ I'm a developer who enjoys building things, solving problems and exploring techn
 
 <br>
 
-<!-- FOOTER -->
+<!-- =============== FOOTER =============== -->
 
 <div align="center">
 
