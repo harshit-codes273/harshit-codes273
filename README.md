@@ -1,97 +1,92 @@
-<!-- =============== ANIMATED HEADER =============== -->
+<!-- HEADER -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020024,50:090979,100:00D4FF&text=HARSHIT%20CHANDIRAMANI&fontSize=42&fontColor=00E5FF&fontAlignY=50&animation=twinkling&stroke=00E5FF&strokeWidth=1"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hello%2C+World!+I'm+Harshit.;C+%7C+C%2B%2B+%7C+Python;Building+Things+That+Matter.;Exploring+Cybersecurity+%26+Web+Development." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=150&pause=2500&color=9D4EDD&center=true&vCenter=true&width=850&height=90&lines=HARSHIT+CHANDIRAMANI" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=harshit-codes273&style=flat-square&color=00D4FF&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Programmer+%7C+Developer;C+%7C+C%2B%2B+%7C+Python;Exploring+Web+Development;Learning+Something+New+Every+Day" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=harshit-codes273&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br>
 
-<!-- =============== ABOUT ME =============== -->
+<!-- ABOUT -->
 
-<h2 align="center">⌁ WHO AM I?</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
 
-```text
-┌───────────────────────────────────────────┐
-│                                           │
-│   USER       : HARSHIT                    │
-│   ROLE       : DEVELOPER                  │
-│   LOCATION   : INDIA                      │
-│                                           │
-│   INTERESTS  : Programming                │
-│                Web Development             │
-│                Cybersecurity               │
-│                Competitive Programming     │
-│                                           │
-│   CURRENTLY  : Learning CSS & JavaScript  │
-│                                           │
-│   MINDSET    : Learn. Build. Repeat.      │
-│                                           │
-└───────────────────────────────────────────┘
-```
+I'm a developer who enjoys building things, solving problems and exploring technology.
+
+💻 Programming & Problem Solving
+
+🌐 Web Development
+
+🔐 Cybersecurity & CTF
+
+⚙️ Backend & Systems Development
+
+🌱 Currently learning CSS and JavaScript.
+
+🚀 Always exploring something new.
 
 </div>
 
----
+<br>
 
-<!-- =============== TECH STACK =============== -->
+<!-- CODING GIF -->
 
-<h2 align="center">⌁ TECH ARSENAL</h2>
+<div align="center">
 
-<h3 align="center">Languages</h3>
+<img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
+</div>
+
+<br>
+
+<!-- TECH STACK -->
+
+<h2 align="center">Technologies & Tools</h2>
+
+<h3 align="center">Programming Languages</h3>
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark"/>
-</p>
+
+</div>
 
 <h3 align="center">Web Development</h3>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-</p>
-
-<h3 align="center">Tools & Environment</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
-</p>
-
-<p align="center">
-<sub>CSS and JavaScript — currently learning.</sub>
-</p>
-
----
-
-<!-- =============== FOCUS =============== -->
-
-<h2 align="center">⌁ CURRENT FOCUS</h2>
-
 <div align="center">
 
-| AREA | FOCUS                         |
-| :--: | :---------------------------- |
-|  💻  | Programming & Problem Solving |
-|  🌐  | Web Development               |
-|  🔐  | Cybersecurity & CTF           |
-|  ⚙️  | Backend & Systems             |
-|  🌍  | Open Source                   |
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
 </div>
 
----
+<h3 align="center">Tools</h3>
 
-<!-- =============== PROJECTS =============== -->
+<div align="center">
 
-<h2 align="center">⌁ SELECTED PROJECTS</h2>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+
+</div>
+
+<p align="center">
+<sub>Currently learning CSS and JavaScript.</sub>
+</p>
+
+<br>
+
+<!-- PROJECTS -->
+
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
@@ -113,60 +108,60 @@
 
 </div>
 
----
+<br>
 
-<!-- =============== GITHUB STATS =============== -->
+<!-- GITHUB STATS -->
 
-<h2 align="center">⌁ GITHUB METRICS</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshit-codes273&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit-codes273&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-codes273&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-codes273&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=harshit-codes273&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<!-- =============== ACTIVITY GRAPH =============== -->
-
-<h2 align="center">⌁ CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-codes273&bg_color=1a1b27&color=00E5FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<!-- =============== CONNECT =============== -->
-
-<h2 align="center">⌁ ESTABLISH CONNECTION</h2>
-
-<div align="center">
-
-<a href="https://github.com/harshit-codes273">
-<img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<br><br>
-
-<code>Always building. Always exploring. Never stopping.</code>
+<img width="65%" src="https://streak-stats.demolab.com?user=harshit-codes273&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
 
-<!-- =============== FOOTER =============== -->
+<!-- CONTRIBUTION GRAPH -->
+
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-codes273&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!-- CONNECT -->
+
+<h2 align="center">Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://github.com/harshit-codes273">
+<img src="https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<i>"Great things are built one line of code at a time."</i>
+
+</div>
+
+<br>
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=100&section=footer"/>
 
 </div>
