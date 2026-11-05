@@ -30,8 +30,6 @@ I'm a developer who enjoys building things, solving problems and exploring techn
 
 🔐 Cybersecurity & CTF
 
-⚙️ Backend & Systems Development
-
 🚀 Always exploring something new.
 
 </div>
